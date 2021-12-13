@@ -2,7 +2,11 @@
 
 ## 我唯一知道的是我一无所知        ----苏格拉底
 
-### 博客导航
+### 文章目录
+
+  [issues 文章](https://github.com/zmike1993/hello-world/issues)
+
+### 分类导航
 
  [政治](https://github.com/zmike1993/hello-world/wiki/1%E6%80%9D%E6%83%B3%E6%9D%82%E8%B4%A7%E9%93%BA%E5%AD%90%E7%9B%AE%E5%BD%95----%E6%94%BF%E6%B2%BB)
  [经济](https://github.com/zmike1993/hello-world/wiki/1%E6%80%9D%E6%83%B3%E6%9D%82%E8%B4%A7%E9%93%BA%E5%AD%90%E7%9B%AE%E5%BD%95----%E7%BB%8F%E6%B5%8E)
@@ -13,7 +17,8 @@
  [社会](https://github.com/zmike1993/hello-world/wiki/1%E6%80%9D%E6%83%B3%E6%9D%82%E8%B4%A7%E9%93%BA%E5%AD%90%E7%9B%AE%E5%BD%95-%E7%A4%BE%E4%BC%9A)
  [翻墙](https://github.com/zmike1993/hello-world/wiki/1%E6%80%9D%E6%83%B3%E6%9D%82%E8%B4%A7%E9%93%BA%E5%AD%90%E7%9B%AE%E5%BD%95-%E7%BF%BB%E5%A2%99)
  
-### 博主推荐
+ 
+### 单独推荐
 
 [《自我管理》哈佛商业评论最受欢迎的文章](https://github.com/zmike1993/hello-world/wiki/%E3%80%8A%E8%87%AA%E6%88%91%E7%AE%A1%E7%90%86%E3%80%8B--%E5%93%88%E4%BD%9B%E5%95%86%E4%B8%9A%E8%AF%84%E8%AE%BA%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%8F%97%E6%AC%A2%E8%BF%8E%E7%9A%84%E6%96%87%E7%AB%A0)
 
