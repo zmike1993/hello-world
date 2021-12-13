@@ -17,7 +17,7 @@
 
 [《自我管理》哈佛商业评论最受欢迎的文章](https://github.com/zmike1993/hello-world/wiki/%E3%80%8A%E8%87%AA%E6%88%91%E7%AE%A1%E7%90%86%E3%80%8B--%E5%93%88%E4%BD%9B%E5%95%86%E4%B8%9A%E8%AF%84%E8%AE%BA%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%8F%97%E6%AC%A2%E8%BF%8E%E7%9A%84%E6%96%87%E7%AB%A0)
 
-[1989天安门事件：6月4日的北京](https://github.com/zmike1993/hello-world/wiki/1989%E5%A4%A9%E5%AE%89%E9%97%A8%E4%BA%8B%E4%BB%B6%EF%BC%9A%E5%9B%9B%E6%97%A5%E7%9A%84%E5%8C%97%E4%BA%AC)
+[1989天安门事件：6月4日的北京(需翻墙)](https://github.com/zmike1993/hello-world/wiki/1989%E5%A4%A9%E5%AE%89%E9%97%A8%E4%BA%8B%E4%BB%B6%EF%BC%9A%E5%9B%9B%E6%97%A5%E7%9A%84%E5%8C%97%E4%BA%AC)
 
 [为什么你会和错的人结婚](https://github.com/zmike1993/hello-world/wiki/%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BD%A0%E4%BC%9A%E5%92%8C%E9%94%99%E7%9A%84%E4%BA%BA%E7%BB%93%E5%A9%9A)
 
