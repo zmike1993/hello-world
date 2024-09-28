@@ -1,12 +1,25 @@
 # 欢迎来到思想杂货铺。
+本小站提供海内外新闻报道，社会热点，政治动向，经济分析，历史教育，思想文化，心理研究，翻墙方法，下载资源，希望大家喜欢。
+你也可以将优质的内容分享给你身边的人，根据蝴蝶效应，一个小小举动可以在大西洋刮起一场飓风！
+我相信这些内容在探寻人生意义，追求职业发展，处理个人情感，构建美满家庭和各种人生重大选择中都能或多或少帮到你们，感谢你们的关注和支持！
 
 ## 我唯一知道的是我一无所知        ----苏格拉底
 
 ### 文章目录
 
-  [博客首页](https://github.com/zmike1993/hello-world/issues) 
+  [博客的首页](https://github.com/zmike1993/hello-world/issues)
 
-  [Wiki文章](https://github.com/zmike1993/hello-world/wiki)
+  [习近平专栏](https://github.com/zmike1993/hello-world/wiki/1思想杂货铺子目录%E2%80%90习近平专栏)
+
+  [新疆集中营](https://github.com/zmike1993/hello-world/wiki/1思想杂货铺子目录%E2%80%90新疆集中营)
+
+  [四通桥反习](https://github.com/zmike1993/hello-world/wiki/1思想杂货铺子目录%E2%80%90四通桥反习)
+
+  [宣传与洗脑](https://github.com/zmike1993/hello-world/wiki/1思想杂货铺子目录%E2%80%90宣传与洗脑)
+
+  [疫情中的国](https://github.com/zmike1993/hello-world/wiki/1思想杂货铺子目录%E2%80%90疫情中的国)
+
+
 
 ### 分类导航
 
