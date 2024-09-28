@@ -4,8 +4,8 @@
 
 ### 文章目录
 
-  [issues文章](https://github.com/zmike1993/hello-world/issues) 
-  [Discussions文章](https://github.com/zmike1993/hello-world/discussions)
+  [博客首页](https://github.com/zmike1993/hello-world/issues) 
+
   [Wiki文章](https://github.com/zmike1993/hello-world/wiki)
 
 ### 分类导航
