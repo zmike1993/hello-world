@@ -7,9 +7,11 @@
 
 ### 文章目录
 
-  [博客的首页](https://github.com/zmike1993/hello-world/issues)
+  [博客的首页](https://github.com/zmike1993/hello-world/issues)     
 
   [习近平专栏](https://github.com/zmike1993/hello-world/wiki/1思想杂货铺子目录%E2%80%90习近平专栏)
+
+  [民生之多艰](https://github.com/zmike1993/hello-world/wiki/思想杂货铺子目录%E2%80%90民生之多艰)
 
   [新疆集中营](https://github.com/zmike1993/hello-world/wiki/1思想杂货铺子目录%E2%80%90新疆集中营)
 
@@ -20,6 +22,8 @@
   [疫情中的国](https://github.com/zmike1993/hello-world/wiki/1思想杂货铺子目录%E2%80%90疫情中的国)
   
   [二里半看守所](https://github.com/zmike1993/hello-world/wiki/思想杂货铺子目录%E2%80%90《二里半看守所全集》)
+
+  
 
 
 ### 分类导航
