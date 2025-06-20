@@ -2,29 +2,8 @@
 本小站提供海内外新闻报道，社会热点，政治动向，经济分析，历史教育，思想文化，心理研究，翻墙方法，下载资源，希望大家喜欢。
 你也可以将优质的内容分享给你身边的人，根据蝴蝶效应，一个小小举动可以在大西洋刮起一场飓风！
 我相信这些内容在探寻人生意义，追求职业发展，处理个人情感，构建美满家庭和各种人生重大选择中都能或多或少帮到你们，感谢你们的关注和支持！
-# 欢迎关注我的播客
-![Image](https://github.com/user-attachments/assets/5d3eab6e-110b-4958-ab0a-4c68429de69d)
-
-声破天Spotify地址
-
-https://open.spotify.com/show/1NDmHSeDc8oZ5Xbv2xOmxJ?si=Un8CafHZS9m7OgHFwitpCQ
-
-
-大陆苹果用户收听该美区播客方式：打开Apple播客-选择资料库-点击右上角三个点…—选择通过URl方式---复制粘贴无声电台的订阅地址：https://anchor.fm/s/1042daf14/podcast/rss 
-
-部分节目，每日更新，欢迎支持
-
-episode 1 失业躺平和离开 https://open.spotify.com/episode/5TUV8SJOnftNPQgUZ805rz?si=MUDtERiXSGmryqLU-4MZIw
-
-episode 2 到底有多少人失业 https://open.spotify.com/episode/71qz1OVIkTMaNm3FMHEHSb?si=V-HMikmjTc-k2y1agoHaCQ
-
-episode 3 苏联，腐败帝国的最后十年 https://open.spotify.com/episode/0ww8r74BdkJwhyUZetbk8O?si=4Maso0HqRyq770rQ1qPSvw
-
-episode 4 互联网审核员的罪与罚 https://open.spotify.com/episode/3qxP4vfhiy6m2uWOIkK4rY?si=Mg-brIzoStOGM9AVNCxe0A
-
-episode 5 自我管理 https://open.spotify.com/episode/2qUCtMzQaZou9TZuGrM2bP?si=OAe3MspsTq-xJx6Mefhlfg
-
-episode 6 加沙废墟中的医院 https://open.spotify.com/episode/2Wwp8lCcgCH539nQVQSmjO?si=Bg1WQz8-QGS70B0Uzpm5EQ
+# 欢迎关注我的YouTube播客频道[无声电台](https://www.youtube.com/@MichaelZheng1993)
+![Podcast Logo](https://github.com/user-attachments/assets/32a84868-90f3-4ee4-9338-6e58d5b69e66)
 
 ## 我唯一知道的是我一无所知        ----苏格拉底
 
