@@ -2,7 +2,7 @@
 本小站提供海内外新闻报道，社会热点，政治动向，经济分析，历史教育，思想文化，心理研究，翻墙方法，下载资源，希望大家喜欢。
 你也可以将优质的内容分享给你身边的人，根据蝴蝶效应，一个小小举动可以在大西洋刮起一场飓风！
 我相信这些内容在探寻人生意义，追求职业发展，处理个人情感，构建美满家庭和各种人生重大选择中都能或多或少帮到你们，感谢你们的关注和支持！
-# 欢迎关注我的YouTube播客频道[无声电台](https://www.youtube.com/@MichaelZheng1993)
+# 欢迎关注我的YouTube播客频道[无声电台](https://youtube.com/channel/UCwLEY1RrKfmqkilL3Sx1NEg?si=NFBFRO0EuZIKylFi)
 ![Podcast Logo](https://github.com/user-attachments/assets/32a84868-90f3-4ee4-9338-6e58d5b69e66)
 
 ## 我唯一知道的是我一无所知        ----苏格拉底
